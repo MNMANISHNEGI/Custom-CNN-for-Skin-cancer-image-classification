@@ -223,9 +223,6 @@ This project uses the ISIC dataset for educational purposes. Refer to ISIC's ter
 
 ---
 
-## Contact and Support
-
-For issues, questions, or contributions, please refer to the documentation files included in the project.
 
 
 ## Author 
