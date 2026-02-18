@@ -231,7 +231,7 @@ temp_*
 *.tmp
 
 # Model training outputs
-*.h5
+
 *.pb
 *.ckpt
 training_logs/
